@@ -1,0 +1,33 @@
+.ordem-compra {
+    margin-top: 50px;
+    margin-bottom: 150px;
+}
+
+/*.form-row {
+    background: #FAFAFA; 
+    padding: 20px; 
+    border-bottom: solid 1px #F0F0F0;
+}*/
+
+input.ng-invalid.ng-touched {
+    border: 1px solid red;
+}
+
+select.ng-invalid.ng-touched {
+    border: 1px solid red;
+}
+
+input.ng-valid.ng-touched {
+    border: 1px solid green;
+}
+
+select.ng-valid.ng-touched {
+    border: 1px solid green;
+}
+
+.form-row {
+    background: #FAFAFA; 
+    padding: 20px; 
+    border-bottom: solid 1px #F0F0F0;
+}
+
